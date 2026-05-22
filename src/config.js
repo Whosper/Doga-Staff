@@ -9,8 +9,8 @@
 //    "Stockage partagé".)
 // =====================================================================
 
-export const SUPABASE_URL = "";       // ex: "https://xxxxxxxx.supabase.co"
-export const SUPABASE_ANON_KEY = "";  // la clé "anon public"
+export const SUPABASE_URL = "https://cmwwdrjrcgzywptsaurp.supabase.co";
+export const SUPABASE_ANON_KEY = "sb_publishable_pIY2rqfIbB5CniN8f1fP9Q_PRWa10-7";
 
 // Identifiant du document d'état. À ne changer que si tu veux faire
 // tourner plusieurs QG distincts sur le même projet Supabase.
